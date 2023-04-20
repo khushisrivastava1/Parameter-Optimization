@@ -19,6 +19,11 @@ Attribute Characterstics:Integer, Real
 
 
 SAMPLES VS ACCURACY TABLE WITH BEST PARAMETERS
+
+
+
+
+
 <img width="239" alt="image" src="https://user-images.githubusercontent.com/112539712/233225608-dd247bf9-8e62-4ed2-bd9b-92a70ffd4fb1.png">
 
 
