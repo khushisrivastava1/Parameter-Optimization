@@ -17,6 +17,7 @@ Dataset Charactersticss:MULTIVARIATE
 
 Attribute Characterstics:Integer, Real
 
+Note:0 indexing used to represent the samples
 
 SAMPLES VS ACCURACY TABLE WITH BEST PARAMETERS
 
