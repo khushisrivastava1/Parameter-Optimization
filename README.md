@@ -19,18 +19,9 @@ Attribute Characterstics:Integer, Real
 
 
 SAMPLES VS ACCURACY TABLE WITH BEST PARAMETERS
+<img width="239" alt="image" src="https://user-images.githubusercontent.com/112539712/233225608-dd247bf9-8e62-4ed2-bd9b-92a70ffd4fb1.png">
 
-accuracy	kernel	C	gamma
-0	0.227667	sigmoid	0.063954	0.515928
-1	0.761	poly	0.180378	0.105685
-2	0.294333	linear	0.011117	0.108192
-3	0.23	rbf	0.963298	0.043466
-4	0.235	rbf	0.992294	0.837051
-5	0.254	poly	0.49067	0.77794
-6	0.265333	sigmoid	0.405466	0.516282
-7	0.788	sigmoid	0.873376	0.406356
-8	0.767	sigmoid	0.762497	0.457946
-9	0.265333	sigmoid	0.187274	0.224679
+
 
 BEST SAMPLE:7th
 
